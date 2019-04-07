@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">StockQuotes-Purtell</string>
+    <string name="app_name">Stock Quotes</string>
+    <string name="input">Search Stocks (Symbol)</string>
+    <string name="symbol">Symbol</string>
+    <string name="name">Name</string>
+    <string name="price">Last Trade Price</string>
+    <string name="time">Last Trade Time</string>
+    <string name="change">Change</string>
+    <string name="range">52 Week Range</string>
 </resources>
